@@ -7,7 +7,7 @@
 
 ## Languages 
 - Java (Basics)
-- Kotlin (some basics, shouldnˋt name that LOL)
+- Kotlin (some basics, shouldn't name that LOL)
 - Lua 
 
 ## Experiences
