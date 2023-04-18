@@ -6,7 +6,8 @@
 - Country: Sümmern, Germany
 
 ## Languages 
-- Java (Basics), Kotlin (some basics)
+- Java (Basics)
+- Kotlin (some basics, shouldnˋt name that LOL)
 - Lua 
 
 ## Experiences
