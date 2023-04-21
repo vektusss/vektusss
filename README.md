@@ -9,6 +9,7 @@
 - Java (Basics)
 - Kotlin (some basics, shouldn't name that LOL)
 - Lua 
+- Skript (lol)
 
 ## Experiences
 
@@ -21,6 +22,12 @@ Other experiences
 - AntiCheat configuration • 6 years
 - Plugin configuration • 3 years
 - Plugin development • 1 year
+- AntiCheat development experience: 5 months
+
+Projects (all private)
+- Basics (Essential plugin for Minecraft, written in Java and Kotlin)
+- Venus (AntiCheat system to gain more experience in terms of anticheats, written in Java) 
+- Utils (Essential staff plugin for Minecraft, written im Java)
 
 ## Contact
 - Discord: vektus#6969
