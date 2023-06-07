@@ -30,4 +30,4 @@ Projects (all private)
 - Utils (Essential staff plugin for Minecraft, written im Java)
 
 ## Contact
-- Discord: vektus#6969
+- Discord: vektus
