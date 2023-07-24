@@ -20,9 +20,9 @@ Working in a team
 
 Other experiences
 - AntiCheat configuration • 6 years
-- Plugin configuration • 3 years
+- Plugin configuration • 4 years
 - Plugin development • 1 year
-- AntiCheat development experience: 5 months
+- AntiCheat development experience: 8 months
 
 Projects (all private)
 - Basics (Essential plugin for Minecraft, written in Java and Kotlin)
