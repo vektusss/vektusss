@@ -1,4 +1,4 @@
-# Hi, im vektus!
+# Hi, I'm vektus!
 
 ## Personal
 - Name: vektus, vxcus
