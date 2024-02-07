@@ -3,7 +3,7 @@
 ## Personal
 - Name: vektus, vxcus
 - Age: 18
-- Country: Sümmern, Iserlohn, Germany
+- Location: Sümmern, Iserlohn, Germany
 
 ## Languages 
 - Java (Basics)
