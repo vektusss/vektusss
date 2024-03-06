@@ -16,13 +16,13 @@
 Working in a team
 - Gamster Network • Chairman (AntiCheat, Gamemode concepts, Gamemode Management for BedWars, Practice, ThePit & FFA) since 16.04.2022
 - Polar AntiCheat • Support since 18.12.2022
-- Intave AntiCheat • Support since 05.02.2023
+- Intave AntiCheat • Support and Development since 05.02.2023
 
 Other experiences
-- AntiCheat configuration • 6 years
-- Plugin configuration • 4 years
-- Plugin development • 1 year
-- AntiCheat development experience: 1 year
+- AntiCheat configuration • 7 years
+- Plugin configuration • 5 years
+- Plugin development • 3 years
+- AntiCheat development experience: 2 years
 
 Projects (all private)
 - Basics (Essential plugin for Minecraft, written in Java and Kotlin)
