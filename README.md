@@ -6,8 +6,8 @@
 - Location: Sümmern, Iserlohn, Germany
 
 ## Languages 
-- Java (Basics)
-- Kotlin (some basics, shouldn't name that LOL)
+- Java 
+- Kotlin
 - Lua 
 - Skript (lol)
 
