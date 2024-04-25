@@ -25,7 +25,7 @@ Other experiences
 - AntiCheat development experience: 2 years
 
 Projects (all private)
-- Prime (Predictive anticheat solution made for Gamster.org)
+- Prime (Silent predictive anticheat solution)
 - Basics (Essential plugin for Minecraft, written in Java and Kotlin)
 - Utils (Essential staff plugin for Minecraft, written im Java)
 - Innerewut (Private LUA-script for gamesense.pub)
