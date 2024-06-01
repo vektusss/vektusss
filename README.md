@@ -7,9 +7,7 @@
 
 ## Languages 
 - Java 
-- Kotlin (❤️)
-- Lua 
-- Skript (lol)
+- Kotlin
 
 ## Experiences
 
@@ -29,6 +27,7 @@ Projects (all private)
 - Basics (Essential plugin for Minecraft, written in Java and Kotlin)
 - Utils (Essential staff plugin for Minecraft, written im Java)
 - Innerewut (Private LUA-script for gamesense.pub)
+- Opal (Performance and moderation tracking tool)
 
 ## Contact
 - Discord: vektus
